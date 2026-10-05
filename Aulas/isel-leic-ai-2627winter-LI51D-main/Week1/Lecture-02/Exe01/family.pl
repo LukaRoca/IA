@@ -83,3 +83,5 @@ descendent(X, Y) :- parent(Z, X), descendent(Z, Y).
 
 
 
+
+
